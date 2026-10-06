@@ -1,25 +1,62 @@
-# Job Search Assistant
-# Busqueda de oportunidades de TI en Costa Rica
+import json
+import urllib.request
 
-SEARCHES = [
-    "IT Support Costa Rica",
-    "Help Desk Costa Rica",
-    "Technical Support Costa Rica",
-    "Desktop Support Costa Rica",
-    "IT Technician Costa Rica",
-    "Network Technician Costa Rica",
-    "Junior Network Engineer Costa Rica",
-    "CCNA Costa Rica",
+API_URL = "https://remotive.com/api/remote-jobs"
+
+KEYWORDS = [
+    "it support",
+    "technical support",
+    "help desk",
+    "service desk",
+    "desktop support",
+    "it technician",
+    "network technician",
+    "network support",
+    "ccna",
 ]
 
-LOCATION = "Costa Rica"
+def get_jobs():
+    request = urllib.request.Request(
+        API_URL,
+        headers={"User-Agent": "JobSearchAssistant/1.0"}
+    )
 
-def show_searches():
-    print("=== JOB SEARCH ASSISTANT ===")
-    print(f"Location: {LOCATION}\n")
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return json.loads(response.read().decode("utf-8"))["jobs"]
 
-    for number, search in enumerate(SEARCHES, start=1):
-        print(f"{number}. {search}")
+
+def matches_profile(job):
+    text = (
+        job.get("title", "") + " " +
+        job.get("description", "") + " " +
+        job.get("category", "")
+    ).lower()
+
+    return any(keyword in text for keyword in KEYWORDS)
+
+
+def main():
+    print("=== IT JOB SEARCH ASSISTANT ===")
+    print("Searching for remote IT opportunities...\n")
+
+    jobs = get_jobs()
+    matches = [job for job in jobs if matches_profile(job)]
+
+    if not matches:
+        print("No matching jobs found today.")
+        return
+
+    print(f"Found {len(matches)} possible jobs:\n")
+
+    for job in matches[:20]:
+        print("=" * 60)
+        print("POSITION:", job.get("title"))
+        print("COMPANY:", job.get("company_name"))
+        print("LOCATION:", job.get("candidate_required_location"))
+        print("DATE:", job.get("publication_date"))
+        print("APPLY:", job.get("url"))
+        print("SOURCE: Remotive")
+
 
 if __name__ == "__main__":
-    show_searches()
+    main()
