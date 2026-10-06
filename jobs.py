@@ -1,25 +1,26 @@
 import json
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timezone
 
-API_URL = "https://remotive.com/api/remote-jobs"
+REMOTIVE_API = "https://remotive.com/api/remote-jobs"
+JOBICY_API = "https://jobicy.com/api/v2/remote-jobs?count=200"
 
-# Puestos relacionados con tu perfil
 KEYWORDS = [
     "it support",
     "technical support",
     "help desk",
+    "helpdesk",
     "service desk",
     "desktop support",
     "it technician",
+    "support technician",
     "network technician",
     "network support",
-    "network administrator",
     "noc technician",
+    "network administrator",
     "ccna",
 ]
 
-# Puestos que queremos evitar
 EXCLUDED = [
     "senior",
     "sr.",
@@ -35,96 +36,194 @@ EXCLUDED = [
 ]
 
 
-def get_jobs():
+def request_json(url):
     request = urllib.request.Request(
-        API_URL,
-        headers={"User-Agent": "JobSearchAssistant/1.0"}
+        url,
+        headers={
+            "User-Agent": "JobSearchAssistant/2.0",
+            "Accept": "application/json"
+        }
     )
 
     with urllib.request.urlopen(request, timeout=30) as response:
-        data = json.loads(response.read().decode("utf-8"))
-        return data["jobs"]
+        return json.loads(response.read().decode("utf-8"))
 
 
-def matches_profile(job):
-    title = job.get("title", "").lower()
+def suitable(title, description="", category=""):
+    title_lower = title.lower()
 
-    text = (
-        job.get("title", "") + " " +
-        job.get("description", "") + " " +
-        job.get("category", "")
-    ).lower()
-
-    # Rechazar puestos avanzados
-    if any(word in title for word in EXCLUDED):
+    if any(word in title_lower for word in EXCLUDED):
         return False
 
-    # Aceptar puestos relacionados con tu perfil
+    text = f"{title} {description} {category}".lower()
+
     return any(keyword in text for keyword in KEYWORDS)
 
 
-def save_results(matches):
-    filename = "jobs_found.md"
+def get_remotive_jobs():
+    jobs_found = []
 
-    with open(filename, "w", encoding="utf-8") as file:
+    try:
+        data = request_json(REMOTIVE_API)
+
+        for job in data.get("jobs", []):
+            title = job.get("title", "")
+
+            if suitable(
+                title,
+                job.get("description", ""),
+                job.get("category", "")
+            ):
+                jobs_found.append({
+                    "title": title,
+                    "company": job.get("company_name", "Unknown"),
+                    "location": job.get(
+                        "candidate_required_location",
+                        "Remote"
+                    ),
+                    "type": "Remote",
+                    "date": job.get("publication_date", ""),
+                    "url": job.get("url", ""),
+                    "source": "Remotive"
+                })
+
+    except Exception as error:
+        print("Remotive error:", error)
+
+    return jobs_found
+
+
+def get_jobicy_jobs():
+    jobs_found = []
+
+    try:
+        data = request_json(JOBICY_API)
+
+        for job in data.get("jobs", []):
+            title = job.get("jobTitle", "")
+            industry = job.get("jobIndustry", [])
+
+            if isinstance(industry, list):
+                industry = " ".join(industry)
+
+            if suitable(
+                title,
+                job.get("jobDescription", ""),
+                industry
+            ):
+                jobs_found.append({
+                    "title": title,
+                    "company": job.get("companyName", "Unknown"),
+                    "location": job.get("jobGeo", "Remote"),
+                    "type": "Remote",
+                    "date": job.get("pubDate", ""),
+                    "url": job.get("url", ""),
+                    "source": "Jobicy"
+                })
+
+    except Exception as error:
+        print("Jobicy error:", error)
+
+    return jobs_found
+
+
+def remove_duplicates(jobs):
+    unique = []
+    seen = set()
+
+    for job in jobs:
+        key = (
+            job["title"].lower().strip(),
+            job["company"].lower().strip()
+        )
+
+        if key not in seen:
+            seen.add(key)
+            unique.append(job)
+
+    return unique
+
+
+def save_results(jobs):
+    with open("jobs_found.md", "w", encoding="utf-8") as file:
+
+        now = datetime.now(timezone.utc)
+
         file.write("# 🔎 IT Jobs Found\n\n")
         file.write(
-            f"Last search: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
+            f"Last search: {now.strftime('%Y-%m-%d %H:%M UTC')}\n\n"
         )
 
         file.write(
-            "Focused on IT Support, Help Desk, Desktop Support "
-            "and Networking opportunities.\n\n"
+            "Searching IT Support, Help Desk, Desktop Support, "
+            "Networking and CCNA opportunities.\n\n"
         )
 
-        if not matches:
+        file.write(
+            "**Target:** Costa Rica + Remote LATAM/Worldwide\n\n"
+        )
+
+        if not jobs:
             file.write("No matching jobs found today.\n")
             return
 
-        file.write(f"## Found {len(matches)} possible opportunities\n\n")
+        file.write(
+            f"## Found {len(jobs)} possible opportunities\n\n"
+        )
 
-        for number, job in enumerate(matches[:20], start=1):
-            title = job.get("title", "Unknown position")
-            company = job.get("company_name", "Unknown company")
-            location = job.get(
-                "candidate_required_location",
-                "Not specified"
+        for number, job in enumerate(jobs[:30], start=1):
+
+            file.write(
+                f"## {number}. {job['title']}\n\n"
             )
-            date = job.get("publication_date", "Not specified")
-            url = job.get("url", "#")
 
-            file.write(f"## {number}. {title}\n\n")
-            file.write(f"**Company:** {company}\n\n")
-            file.write(f"**Location:** {location}\n\n")
-            file.write(f"**Published:** {date}\n\n")
-            file.write(f"👉 [Apply here]({url})\n\n")
-            file.write("Source: Remotive\n\n")
+            file.write(
+                f"**Company:** {job['company']}\n\n"
+            )
+
+            file.write(
+                f"**Location:** {job['location']}\n\n"
+            )
+
+            file.write(
+                f"**Modality:** {job['type']}\n\n"
+            )
+
+            file.write(
+                f"**Published:** {job['date']}\n\n"
+            )
+
+            file.write(
+                f"**Source:** {job['source']}\n\n"
+            )
+
+            file.write(
+                f"👉 [View job / Apply]({job['url']})\n\n"
+            )
+
             file.write("---\n\n")
 
 
 def main():
-    print("=== IT JOB SEARCH ASSISTANT ===")
-    print("Searching for suitable IT opportunities...\n")
 
-    jobs = get_jobs()
+    print("=== IT JOB SEARCH ASSISTANT V2 ===\n")
 
-    matches = [
-        job for job in jobs
-        if matches_profile(job)
-    ]
+    print("Searching Remotive...")
+    remotive = get_remotive_jobs()
+    print("Remotive matches:", len(remotive))
 
-    print(f"Found {len(matches)} suitable jobs.")
+    print("Searching Jobicy...")
+    jobicy = get_jobicy_jobs()
+    print("Jobicy matches:", len(jobicy))
 
-    for job in matches[:20]:
-        print(
-            job.get("title"),
-            "-",
-            job.get("company_name")
-        )
+    all_jobs = remotive + jobicy
+    all_jobs = remove_duplicates(all_jobs)
 
-    save_results(matches)
+    print("\nTotal suitable jobs:", len(all_jobs))
 
-    print("\nResults saved to jobs_found.md")
+    save_results(all_jobs)
+
+    print("Results saved to jobs_found.md")
 
 
 if __name__ == "__main__":
