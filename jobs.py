@@ -222,6 +222,58 @@ def save_results(jobs):
         file.write(
             "**Target:** Costa Rica + Remote LATAM/Worldwide\n\n"
         )
+                # Busquedas locales de Costa Rica
+        file.write("## 🇨🇷 Costa Rica - Local Job Searches\n\n")
+
+        file.write(
+            "These searches include onsite, hybrid and remote opportunities.\n\n"
+        )
+
+        file.write(
+            "### LinkedIn\n"
+            "👉 [IT Support Costa Rica]"
+            "(https://www.linkedin.com/jobs/search/?keywords=IT%20Support&location=Costa%20Rica)\n\n"
+        )
+
+        file.write(
+            "👉 [Help Desk Costa Rica]"
+            "(https://www.linkedin.com/jobs/search/?keywords=Help%20Desk&location=Costa%20Rica)\n\n"
+        )
+
+        file.write(
+            "👉 [Desktop Support Costa Rica]"
+            "(https://www.linkedin.com/jobs/search/?keywords=Desktop%20Support&location=Costa%20Rica)\n\n"
+        )
+
+        file.write(
+            "👉 [Network Technician Costa Rica]"
+            "(https://www.linkedin.com/jobs/search/?keywords=Network%20Technician&location=Costa%20Rica)\n\n"
+        )
+
+        file.write(
+            "### Indeed Costa Rica\n"
+            "👉 [IT Support]"
+            "(https://cr.indeed.com/jobs?q=IT+Support&l=Costa+Rica)\n\n"
+        )
+
+        file.write(
+            "👉 [Help Desk]"
+            "(https://cr.indeed.com/jobs?q=Help+Desk&l=Costa+Rica)\n\n"
+        )
+
+        file.write(
+            "👉 [Technical Support]"
+            "(https://cr.indeed.com/jobs?q=Technical+Support&l=Costa+Rica)\n\n"
+        )
+
+        file.write(
+            "👉 [Network Technician]"
+            "(https://cr.indeed.com/jobs?q=Network+Technician&l=Costa+Rica)\n\n"
+        )
+
+        file.write("---\n\n")
+
+        file.write("## 🌎 Automatically Found Jobs\n\n")
 
         if not jobs:
             file.write("No matching jobs found today.\n")
