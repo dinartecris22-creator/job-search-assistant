@@ -50,14 +50,74 @@ def request_json(url):
 
 
 def suitable(title, description="", category=""):
-    title_lower = title.lower()
+    title_lower = title.lower().strip()
 
-    if any(word in title_lower for word in EXCLUDED):
+    # Puestos demasiado avanzados
+    excluded_titles = [
+        "senior",
+        "sr.",
+        "sr ",
+        "lead",
+        "manager",
+        "director",
+        "principal",
+        "tier iii",
+        "tier 3",
+        "level iii",
+        "level 3",
+        "engineer iii",
+    ]
+
+    if any(word in title_lower for word in excluded_titles):
         return False
 
-    text = f"{title} {description} {category}".lower()
+    # Puestos que NO corresponden a nuestro objetivo principal
+    unrelated_titles = [
+        "sales engineer",
+        "pre-sales",
+        "presales",
+        "solutions engineer",
+        "solution engineer",
+        "customer success engineer",
+        "technical success engineer",
+        "technical consultant",
+        "solutions consultant",
+        "sap consultant",
+        "cloud consultant",
+        "software engineer",
+        "developer",
+        "devops",
+    ]
 
-    return any(keyword in text for keyword in KEYWORDS)
+    if any(word in title_lower for word in unrelated_titles):
+        return False
+
+    # Puestos que SÍ queremos.
+    # Importante: ahora exigimos que aparezcan en el TÍTULO.
+    target_titles = [
+        "it support",
+        "technical support",
+        "tech support",
+        "help desk",
+        "helpdesk",
+        "service desk",
+        "desktop support",
+        "desktop technician",
+        "it technician",
+        "support technician",
+        "support specialist",
+        "support analyst",
+        "support engineer",
+        "network support",
+        "network technician",
+        "network administrator",
+        "noc technician",
+        "noc analyst",
+        "field technician",
+        "field support",
+    ]
+
+    return any(word in title_lower for word in target_titles)
 
 
 def get_remotive_jobs():
