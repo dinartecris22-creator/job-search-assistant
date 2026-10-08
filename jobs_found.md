@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-07 13:12 UTC
+Last search: 2026-10-08 13:13 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,7 +46,7 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 3 possible opportunities
+## Found 1 possible opportunities
 
 ## 1. Technical Support Specialist (Remote) - Entry Level, No Degree Required, 15 - 18
 
@@ -61,38 +61,6 @@ Sources: Jobicy + Remotive
 **Source:** Jobicy
 
 👉 [View job / Apply](https://jobicy.com/jobs/148512-technical-support-specialist-remote-entry-level-no-degree-required-15-18)
-
----
-
-## 2. Customer Support Engineer
-
-**Company:** RelationalAI
-
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-06T04:50:09+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/152570-customer-support-engineer-2)
-
----
-
-## 3. Support Engineer
-
-**Company:** Roboflow
-
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-06T04:50:06+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/152566-support-engineer)
 
 ---
 
