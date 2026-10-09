@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-08 13:13 UTC
+Last search: 2026-10-09 13:12 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,69 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
+## Found 4 possible opportunities
 
-## 1. Technical Support Specialist (Remote) - Entry Level, No Degree Required, 15 - 18
+## 1. Product Support Engineer - EMEA
 
-**Company:** NoGigiddy
+**Company:** Ashby
 
-**Location:** USA
+**Location:** EMEA
 
 **Modality:** Remote
 
-**Published:** 2026-10-07T04:15:08+00:00
+**Published:** 2026-10-09T06:22:41+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/148512-technical-support-specialist-remote-entry-level-no-degree-required-15-18)
+👉 [View job / Apply](https://jobicy.com/jobs/154903-product-support-engineer-emea)
+
+---
+
+## 2. Support Engineer (EMEA - Weekends)
+
+**Company:** Supabase
+
+**Location:** EMEA
+
+**Modality:** Remote
+
+**Published:** 2026-10-09T02:55:09+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/152811-support-engineer-emea-weekends)
+
+---
+
+## 3. Support Engineer (AMER - Weekends)
+
+**Company:** Supabase
+
+**Location:** LATAM,  Canada,  USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-09T02:55:04+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/152807-support-engineer-amer-weekends)
+
+---
+
+## 4. Product Support Specialist - APAC
+
+**Company:** Ashby
+
+**Location:** APAC
+
+**Modality:** Remote
+
+**Published:** 2026-10-08T10:40:20+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/154816-product-support-specialist-apac)
 
 ---
 
