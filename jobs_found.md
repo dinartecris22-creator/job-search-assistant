@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-09 13:12 UTC
+Last search: 2026-10-10 13:08 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,7 +46,7 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 4 possible opportunities
+## Found 3 possible opportunities
 
 ## 1. Product Support Engineer - EMEA
 
@@ -93,22 +93,6 @@ Sources: Jobicy + Remotive
 **Source:** Jobicy
 
 👉 [View job / Apply](https://jobicy.com/jobs/152807-support-engineer-amer-weekends)
-
----
-
-## 4. Product Support Specialist - APAC
-
-**Company:** Ashby
-
-**Location:** APAC
-
-**Modality:** Remote
-
-**Published:** 2026-10-08T10:40:20+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/154816-product-support-specialist-apac)
 
 ---
 
