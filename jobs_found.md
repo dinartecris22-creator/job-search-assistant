@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-10 13:08 UTC
+Last search: 2026-10-11 13:09 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,53 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 3 possible opportunities
+## Found 2 possible opportunities
 
-## 1. Product Support Engineer - EMEA
+## 1. Helpdesk Technician Tier 1
 
-**Company:** Ashby
+**Company:** Nebius
 
-**Location:** EMEA
+**Location:** Singapore
 
 **Modality:** Remote
 
-**Published:** 2026-10-09T06:22:41+00:00
+**Published:** 2026-10-11T06:09:53+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/154903-product-support-engineer-emea)
+👉 [View job / Apply](https://jobicy.com/jobs/155036-helpdesk-technician-tier-1)
 
 ---
 
-## 2. Support Engineer (EMEA - Weekends)
+## 2. Technical Support Specialist - German Speaking
 
-**Company:** Supabase
+**Company:** Synthesia
 
-**Location:** EMEA
-
-**Modality:** Remote
-
-**Published:** 2026-10-09T02:55:09+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/152811-support-engineer-emea-weekends)
-
----
-
-## 3. Support Engineer (AMER - Weekends)
-
-**Company:** Supabase
-
-**Location:** LATAM,  Canada,  USA
+**Location:** UK
 
 **Modality:** Remote
 
-**Published:** 2026-10-09T02:55:04+00:00
+**Published:** 2026-10-11T03:50:07+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/152807-support-engineer-amer-weekends)
+👉 [View job / Apply](https://jobicy.com/jobs/152989-technical-support-specialist-german-speaking)
 
 ---
 
