@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-12 13:30 UTC
+Last search: 2026-10-13 13:18 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,9 +46,25 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 5 possible opportunities
+## Found 4 possible opportunities
 
-## 1. Order Processing Tech Support Specialist
+## 1. Tier 2 Technical Support Specialist
+
+**Company:** Rockbot
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-12T16:18:20+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/155154-tier-2-technical-support-specialist)
+
+---
+
+## 2. Order Processing Tech Support Specialist
 
 **Company:** LevelUp
 
@@ -64,7 +80,7 @@ Sources: Jobicy + Remotive
 
 ---
 
-## 2. Order Processing Tech Support Specialist 6-Month Fixed-Term Contract
+## 3. Order Processing Tech Support Specialist 6-Month Fixed-Term Contract
 
 **Company:** LevelUp
 
@@ -80,7 +96,7 @@ Sources: Jobicy + Remotive
 
 ---
 
-## 3. Product Support Specialist - EMEA
+## 4. Product Support Specialist - EMEA
 
 **Company:** Ashby
 
@@ -93,38 +109,6 @@ Sources: Jobicy + Remotive
 **Source:** Jobicy
 
 👉 [View job / Apply](https://jobicy.com/jobs/153069-product-support-specialist-emea)
-
----
-
-## 4. Helpdesk Technician Tier 1
-
-**Company:** Nebius
-
-**Location:** Singapore
-
-**Modality:** Remote
-
-**Published:** 2026-10-11T06:09:53+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/155036-helpdesk-technician-tier-1)
-
----
-
-## 5. Technical Support Specialist - German Speaking
-
-**Company:** Synthesia
-
-**Location:** UK
-
-**Modality:** Remote
-
-**Published:** 2026-10-11T03:50:07+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/152989-technical-support-specialist-german-speaking)
 
 ---
 
