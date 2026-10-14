@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-13 13:18 UTC
+Last search: 2026-10-14 13:27 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,7 +46,7 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 4 possible opportunities
+## Found 1 possible opportunities
 
 ## 1. Tier 2 Technical Support Specialist
 
@@ -61,54 +61,6 @@ Sources: Jobicy + Remotive
 **Source:** Jobicy
 
 👉 [View job / Apply](https://jobicy.com/jobs/155154-tier-2-technical-support-specialist)
-
----
-
-## 2. Order Processing Tech Support Specialist
-
-**Company:** LevelUp
-
-**Location:** Philippines
-
-**Modality:** Remote
-
-**Published:** 2026-10-12T06:59:51+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/155085-order-processing-tech-support-specialist)
-
----
-
-## 3. Order Processing Tech Support Specialist 6-Month Fixed-Term Contract
-
-**Company:** LevelUp
-
-**Location:** Philippines
-
-**Modality:** Remote
-
-**Published:** 2026-10-12T06:59:50+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/155087-order-processing-tech-support-specialist-6-month-fixed-term-contract)
-
----
-
-## 4. Product Support Specialist - EMEA
-
-**Company:** Ashby
-
-**Location:** Europe
-
-**Modality:** Remote
-
-**Published:** 2026-10-12T02:40:18+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/153069-product-support-specialist-emea)
 
 ---
 
