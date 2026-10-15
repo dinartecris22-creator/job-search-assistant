@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-14 13:27 UTC
+Last search: 2026-10-15 13:33 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,53 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
+## Found 3 possible opportunities
 
-## 1. Tier 2 Technical Support Specialist
+## 1. Dedicated Linux Desktop & Devices Support Engineer, Singapore
 
-**Company:** Rockbot
+**Company:** Canonical
+
+**Location:** APAC
+
+**Modality:** Remote
+
+**Published:** 2026-10-15T02:45:21+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/145994-dedicated-linux-desktop-devices-support-engineer-singapore)
+
+---
+
+## 2. Technical Support Specialist, AU
+
+**Company:** Nash
+
+**Location:** Australia
+
+**Modality:** Remote
+
+**Published:** 2026-10-14T14:04:05+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/155304-technical-support-specialist-au)
+
+---
+
+## 3. Support Engineer
+
+**Company:** Spreedly
 
 **Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-12T16:18:20+00:00
+**Published:** 2026-10-14T13:17:27+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/155154-tier-2-technical-support-specialist)
+👉 [View job / Apply](https://jobicy.com/jobs/155268-support-engineer-2)
 
 ---
 
