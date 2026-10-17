@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-16 13:31 UTC
+Last search: 2026-10-17 13:20 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,4 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
-
-## 1. Dedicated Linux Desktop & Devices Support Engineer, Singapore
-
-**Company:** Canonical
-
-**Location:** APAC
-
-**Modality:** Remote
-
-**Published:** 2026-10-15T02:45:21+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/145994-dedicated-linux-desktop-devices-support-engineer-singapore)
-
----
-
+No matching automatic jobs found today.
