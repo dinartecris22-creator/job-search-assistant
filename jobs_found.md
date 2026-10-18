@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-17 13:20 UTC
+Last search: 2026-10-18 13:21 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,4 +46,85 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-No matching automatic jobs found today.
+## Found 5 possible opportunities
+
+## 1. Multichannel Member Support Specialist
+
+**Company:** SmithRx
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-18T07:23:16+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/155702-multichannel-member-support-specialist)
+
+---
+
+## 2. IT Support Specialist
+
+**Company:** 6sense
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-18T07:23:16+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/155698-it-support-specialist-3)
+
+---
+
+## 3. Technical Support Specialist - Tier 1 - US Remote
+
+**Company:** PerfectServe
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-18T07:23:15+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/155701-technical-support-specialist-tier-1-us-remote)
+
+---
+
+## 4. Member Support Specialist (Phone, Chat, Email)
+
+**Company:** SmithRx
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-18T07:23:14+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/155699-member-support-specialist-phone-chat-email)
+
+---
+
+## 5. Technical Support Engineer, APAC
+
+**Company:** Socket
+
+**Location:** Australia
+
+**Modality:** Remote
+
+**Published:** 2026-10-18T06:59:32+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/155669-technical-support-engineer-apac)
+
+---
+
