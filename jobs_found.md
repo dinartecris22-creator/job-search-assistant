@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-19 13:36 UTC
+Last search: 2026-10-20 13:32 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,85 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 5 possible opportunities
+## Found 2 possible opportunities
 
-## 1. Multichannel Member Support Specialist
+## 1. Named Technical Support Engineer
 
-**Company:** SmithRx
-
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-18T07:23:16+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/155702-multichannel-member-support-specialist)
-
----
-
-## 2. IT Support Specialist
-
-**Company:** 6sense
+**Company:** Roboflow
 
 **Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-18T07:23:16+00:00
+**Published:** 2026-10-20T03:25:21+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/155698-it-support-specialist-3)
+👉 [View job / Apply](https://jobicy.com/jobs/153634-named-technical-support-engineer)
 
 ---
 
-## 3. Technical Support Specialist - Tier 1 - US Remote
+## 2. Associate Linux Support Engineer
 
-**Company:** PerfectServe
+**Company:** Canonical
 
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-18T07:23:15+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/155701-technical-support-specialist-tier-1-us-remote)
-
----
-
-## 4. Member Support Specialist (Phone, Chat, Email)
-
-**Company:** SmithRx
-
-**Location:** USA
+**Location:** Anywhere
 
 **Modality:** Remote
 
-**Published:** 2026-10-18T07:23:14+00:00
+**Published:** 2026-10-20T03:25:16+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/155699-member-support-specialist-phone-chat-email)
-
----
-
-## 5. Technical Support Engineer, APAC
-
-**Company:** Socket
-
-**Location:** Australia
-
-**Modality:** Remote
-
-**Published:** 2026-10-18T06:59:32+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/155669-technical-support-engineer-apac)
+👉 [View job / Apply](https://jobicy.com/jobs/151014-associate-linux-support-engineer)
 
 ---
 
