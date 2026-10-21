@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-20 13:32 UTC
+Last search: 2026-10-21 13:32 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,37 +46,4 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 2 possible opportunities
-
-## 1. Named Technical Support Engineer
-
-**Company:** Roboflow
-
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-20T03:25:21+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/153634-named-technical-support-engineer)
-
----
-
-## 2. Associate Linux Support Engineer
-
-**Company:** Canonical
-
-**Location:** Anywhere
-
-**Modality:** Remote
-
-**Published:** 2026-10-20T03:25:16+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/151014-associate-linux-support-engineer)
-
----
-
+No matching automatic jobs found today.
