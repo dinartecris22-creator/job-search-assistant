@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-21 13:32 UTC
+Last search: 2026-10-22 13:35 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,4 +46,117 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-No matching automatic jobs found today.
+## Found 7 possible opportunities
+
+## 1. Technical Support Specialist
+
+**Company:** Vultr
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-22T09:29:53+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/156337-technical-support-specialist)
+
+---
+
+## 2. Technical Support Engineer
+
+**Company:** Vultr
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-22T09:29:40+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/156329-technical-support-engineer-2)
+
+---
+
+## 3. Support Engineer (AMER)
+
+**Company:** Supabase
+
+**Location:** Canada,  USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-22T04:40:08+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151300-support-engineer-amer)
+
+---
+
+## 4. Support Engineer (APAC)
+
+**Company:** Supabase
+
+**Location:** APAC
+
+**Modality:** Remote
+
+**Published:** 2026-10-22T04:35:14+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151305-support-engineer-apac)
+
+---
+
+## 5. Customer Support Engineer (Tier 1)
+
+**Company:** Tailscale
+
+**Location:** UK
+
+**Modality:** Remote
+
+**Published:** 2026-10-22T04:30:11+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151195-customer-support-engineer-tier-1)
+
+---
+
+## 6. Database Support Engineer (Japanese Speaking)
+
+**Company:** Supabase
+
+**Location:** APAC
+
+**Modality:** Remote
+
+**Published:** 2026-10-21T18:05:10+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking)
+
+---
+
+## 7. Product Support Engineer - APAC
+
+**Company:** Ashby
+
+**Location:** Australia,  Japan,  New Zealand,  Singapore,  South Korea
+
+**Modality:** Remote
+
+**Published:** 2026-10-21T18:05:09+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/156252-product-support-engineer-apac)
+
+---
+
