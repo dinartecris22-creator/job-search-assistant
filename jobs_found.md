@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-23 13:31 UTC
+Last search: 2026-10-24 13:23 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -48,19 +48,19 @@ Sources: Jobicy + Remotive
 
 ## Found 1 possible opportunities
 
-## 1. Customer Support Specialist
+## 1. Client Support Analyst - ZAP Solutions
 
-**Company:** Elevenlabs
+**Company:** Banyan Software
 
-**Location:** LATAM,  Bulgaria,  Canada,  Philippines,  Poland
+**Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-22T15:48:33+00:00
+**Published:** 2026-10-23T13:48:12+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/156431-customer-support-specialist-3)
+👉 [View job / Apply](https://jobicy.com/jobs/156597-client-support-analyst-zap-solutions)
 
 ---
 
