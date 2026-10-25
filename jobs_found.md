@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-24 13:23 UTC
+Last search: 2026-10-25 13:23 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
+## Found 2 possible opportunities
 
-## 1. Client Support Analyst - ZAP Solutions
+## 1. Support Engineer I - UK
 
-**Company:** Banyan Software
+**Company:** ExtraHop
+
+**Location:** UK
+
+**Modality:** Remote
+
+**Published:** 2026-10-25T04:25:15+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/154015-support-engineer-i-uk)
+
+---
+
+## 2. Product Support Specialist- Eastern Time Zone
+
+**Company:** Huntress
 
 **Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-23T13:48:12+00:00
+**Published:** 2026-10-24T16:13:46+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/156597-client-support-analyst-zap-solutions)
+👉 [View job / Apply](https://jobicy.com/jobs/156772-product-support-specialist-eastern-time-zone)
 
 ---
 
