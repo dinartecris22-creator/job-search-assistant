@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-25 13:23 UTC
+Last search: 2026-10-26 15:07 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,37 +46,85 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 2 possible opportunities
+## Found 5 possible opportunities
 
-## 1. Support Engineer I - UK
+## 1. Technical Support Engineer I
 
-**Company:** ExtraHop
+**Company:** Tines
 
-**Location:** UK
+**Location:** Ireland
 
 **Modality:** Remote
 
-**Published:** 2026-10-25T04:25:15+00:00
+**Published:** 2026-10-26T05:55:33+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/154015-support-engineer-i-uk)
+👉 [View job / Apply](https://jobicy.com/jobs/157061-technical-support-engineer-i)
 
 ---
 
-## 2. Product Support Specialist- Eastern Time Zone
+## 2. Database Support Engineer (EMEA)
 
-**Company:** Huntress
+**Company:** Supabase
 
-**Location:** USA
+**Location:** EMEA
 
 **Modality:** Remote
 
-**Published:** 2026-10-24T16:13:46+00:00
+**Published:** 2026-10-26T04:20:17+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/156772-product-support-specialist-eastern-time-zone)
+👉 [View job / Apply](https://jobicy.com/jobs/154079-database-support-engineer-emea)
+
+---
+
+## 3. Database Support Engineer (APAC)
+
+**Company:** Supabase
+
+**Location:** APAC
+
+**Modality:** Remote
+
+**Published:** 2026-10-26T04:15:21+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/154081-database-support-engineer-apac)
+
+---
+
+## 4. Database Support Engineer (AMER)
+
+**Company:** Supabase
+
+**Location:** LATAM,  Canada,  USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-26T04:15:18+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/154076-database-support-engineer-amer)
+
+---
+
+## 5. Customer Support Specialist, Bilingual (Spanish), Contract
+
+**Company:** Roofr
+
+**Location:** LATAM
+
+**Modality:** Remote
+
+**Published:** 2026-10-25T10:46:41+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/156950-customer-support-specialist-bilingual-spanish-contract)
 
 ---
 
