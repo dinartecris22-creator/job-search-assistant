@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-26 15:07 UTC
+Last search: 2026-10-27 13:41 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,85 +46,21 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 5 possible opportunities
+## Found 1 possible opportunities
 
-## 1. Technical Support Engineer I
+## 1. Web Integrations Support Engineer
 
-**Company:** Tines
+**Company:** Smartling
 
-**Location:** Ireland
-
-**Modality:** Remote
-
-**Published:** 2026-10-26T05:55:33+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/157061-technical-support-engineer-i)
-
----
-
-## 2. Database Support Engineer (EMEA)
-
-**Company:** Supabase
-
-**Location:** EMEA
+**Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-26T04:20:17+00:00
+**Published:** 2026-10-26T13:21:17+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/154079-database-support-engineer-emea)
-
----
-
-## 3. Database Support Engineer (APAC)
-
-**Company:** Supabase
-
-**Location:** APAC
-
-**Modality:** Remote
-
-**Published:** 2026-10-26T04:15:21+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/154081-database-support-engineer-apac)
-
----
-
-## 4. Database Support Engineer (AMER)
-
-**Company:** Supabase
-
-**Location:** LATAM,  Canada,  USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-26T04:15:18+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/154076-database-support-engineer-amer)
-
----
-
-## 5. Customer Support Specialist, Bilingual (Spanish), Contract
-
-**Company:** Roofr
-
-**Location:** LATAM
-
-**Modality:** Remote
-
-**Published:** 2026-10-25T10:46:41+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/156950-customer-support-specialist-bilingual-spanish-contract)
+👉 [View job / Apply](https://jobicy.com/jobs/157187-web-integrations-support-engineer)
 
 ---
 
