@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-27 13:41 UTC
+Last search: 2026-10-28 13:46 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,101 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
+## Found 6 possible opportunities
 
-## 1. Web Integrations Support Engineer
+## 1. Technical Support Specialist , UK
 
-**Company:** Smartling
+**Company:** Nash
 
-**Location:** USA
+**Location:** UK
 
 **Modality:** Remote
 
-**Published:** 2026-10-26T13:21:17+00:00
+**Published:** 2026-10-28T03:30:05+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/157187-web-integrations-support-engineer)
+👉 [View job / Apply](https://jobicy.com/jobs/151857-technical-support-specialist-uk)
+
+---
+
+## 2. Service Desk/System Administrator
+
+**Company:** Playson
+
+**Location:** Ukraine
+
+**Modality:** Remote
+
+**Published:** 2026-10-28T03:25:16+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151895-service-desk-system-administrator)
+
+---
+
+## 3. Dedicated Linux Desktop & Devices Support Engineer, Singapore
+
+**Company:** Canonical
+
+**Location:** APAC
+
+**Modality:** Remote
+
+**Published:** 2026-10-28T03:25:15+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151891-dedicated-linux-desktop-devices-support-engineer-singapore-2)
+
+---
+
+## 4. Cloud Support Engineer
+
+**Company:** Canonical
+
+**Location:** Anywhere
+
+**Modality:** Remote
+
+**Published:** 2026-10-28T03:25:13+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151889-cloud-support-engineer-2)
+
+---
+
+## 5. Product Support Specialist - Americas
+
+**Company:** Ashby
+
+**Location:** Canada,  USA
+
+**Modality:** Remote
+
+**Published:** 2026-10-28T03:19:33+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151886-product-support-specialist-americas)
+
+---
+
+## 6. Product Support Specialist - Australia
+
+**Company:** Ashby
+
+**Location:** Australia
+
+**Modality:** Remote
+
+**Published:** 2026-10-28T03:19:31+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151882-product-support-specialist-australia)
 
 ---
 
