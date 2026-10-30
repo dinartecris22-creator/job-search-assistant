@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-29 13:48 UTC
+Last search: 2026-10-30 13:49 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,4 +46,85 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-No matching automatic jobs found today.
+## Found 5 possible opportunities
+
+## 1. Technical Support Engineer 2
+
+**Company:** Twilio
+
+**Location:** Ireland
+
+**Modality:** Remote
+
+**Published:** 2026-10-30T08:20:33+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/157938-technical-support-engineer-2-2)
+
+---
+
+## 2. Technical Support Engineer
+
+**Company:** Twilio
+
+**Location:** Ireland
+
+**Modality:** Remote
+
+**Published:** 2026-10-30T08:20:04+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/157934-technical-support-engineer-3)
+
+---
+
+## 3. Bilingual Product Support Analyst (Canadian French)
+
+**Company:** D2L
+
+**Location:** Canada
+
+**Modality:** Remote
+
+**Published:** 2026-10-30T03:25:13+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french)
+
+---
+
+## 4. Support Engineer (EMEA)
+
+**Company:** Supabase
+
+**Location:** EMEA
+
+**Modality:** Remote
+
+**Published:** 2026-10-30T03:20:10+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/152053-support-engineer-emea)
+
+---
+
+## 5. Customer Support Engineer
+
+**Company:** Vercel
+
+**Location:** Australia
+
+**Modality:** Remote
+
+**Published:** 2026-10-29T18:48:58+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/157914-customer-support-engineer-4)
+
+---
+
