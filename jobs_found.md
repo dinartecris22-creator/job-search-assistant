@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-30 13:49 UTC
+Last search: 2026-10-31 13:37 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,85 +46,69 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 5 possible opportunities
+## Found 4 possible opportunities
 
-## 1. Technical Support Engineer 2
+## 1. L1 Support Engineer - Spanish Bilingual
 
-**Company:** Twilio
+**Company:** Instructure
 
-**Location:** Ireland
+**Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-30T08:20:33+00:00
+**Published:** 2026-10-31T10:10:24+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/157938-technical-support-engineer-2-2)
+👉 [View job / Apply](https://jobicy.com/jobs/158194-l1-support-engineer-spanish-bilingual)
 
 ---
 
-## 2. Technical Support Engineer
+## 2. Customer Support Specialist
 
-**Company:** Twilio
+**Company:** Mercury
 
-**Location:** Ireland
+**Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-30T08:20:04+00:00
+**Published:** 2026-10-31T10:09:20+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/157934-technical-support-engineer-3)
+👉 [View job / Apply](https://jobicy.com/jobs/158176-customer-support-specialist-7)
 
 ---
 
-## 3. Bilingual Product Support Analyst (Canadian French)
+## 3. Merchant Support Specialist
 
-**Company:** D2L
+**Company:** Polar
 
-**Location:** Canada
+**Location:** Europe
 
 **Modality:** Remote
 
-**Published:** 2026-10-30T03:25:13+00:00
+**Published:** 2026-10-31T09:11:30+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french)
+👉 [View job / Apply](https://jobicy.com/jobs/158149-merchant-support-specialist)
 
 ---
 
-## 4. Support Engineer (EMEA)
+## 4. Client Support Specialist - After Hours
 
-**Company:** Supabase
+**Company:** Lyra Health
 
-**Location:** EMEA
-
-**Modality:** Remote
-
-**Published:** 2026-10-30T03:20:10+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/152053-support-engineer-emea)
-
----
-
-## 5. Customer Support Engineer
-
-**Company:** Vercel
-
-**Location:** Australia
+**Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-10-29T18:48:58+00:00
+**Published:** 2026-10-31T09:09:25+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/157914-customer-support-engineer-4)
+👉 [View job / Apply](https://jobicy.com/jobs/158139-client-support-specialist-after-hours)
 
 ---
 
