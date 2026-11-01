@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-10-31 13:37 UTC
+Last search: 2026-11-01 13:38 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,69 +46,21 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 4 possible opportunities
+## Found 1 possible opportunities
 
-## 1. L1 Support Engineer - Spanish Bilingual
+## 1. Technical Support Engineer (Shopify)
 
-**Company:** Instructure
+**Company:** Fresh Prints
 
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-31T10:10:24+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/158194-l1-support-engineer-spanish-bilingual)
-
----
-
-## 2. Customer Support Specialist
-
-**Company:** Mercury
-
-**Location:** USA
+**Location:** Philippines
 
 **Modality:** Remote
 
-**Published:** 2026-10-31T10:09:20+00:00
+**Published:** 2026-11-01T06:18:25+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/158176-customer-support-specialist-7)
-
----
-
-## 3. Merchant Support Specialist
-
-**Company:** Polar
-
-**Location:** Europe
-
-**Modality:** Remote
-
-**Published:** 2026-10-31T09:11:30+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/158149-merchant-support-specialist)
-
----
-
-## 4. Client Support Specialist - After Hours
-
-**Company:** Lyra Health
-
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-10-31T09:09:25+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/158139-client-support-specialist-after-hours)
+👉 [View job / Apply](https://jobicy.com/jobs/158306-technical-support-engineer-shopify)
 
 ---
 
