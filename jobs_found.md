@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-02 13:58 UTC
+Last search: 2026-11-03 14:00 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,4 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
-
-## 1. Technical Support Engineer
-
-**Company:** QuickNode
-
-**Location:** Portugal,  USA
-
-**Modality:** Remote
-
-**Published:** 2026-11-02T03:12:09+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/154390-technical-support-engineer)
-
----
-
+No matching automatic jobs found today.
