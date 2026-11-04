@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-03 14:00 UTC
+Last search: 2026-11-04 13:58 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,4 +46,21 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-No matching automatic jobs found today.
+## Found 1 possible opportunities
+
+## 1. Technical Support Engineer
+
+**Company:** Kustomer
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-11-04T03:43:04+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/158090-technical-support-engineer-5)
+
+---
+
