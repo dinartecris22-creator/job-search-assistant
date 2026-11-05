@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-04 13:58 UTC
+Last search: 2026-11-05 14:06 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
+## Found 2 possible opportunities
 
-## 1. Technical Support Engineer
+## 1. L1 Support Engineer - Portuguese (Part-time)
 
-**Company:** Kustomer
+**Company:** Instructure
 
 **Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-11-04T03:43:04+00:00
+**Published:** 2026-11-05T04:45:27+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/158090-technical-support-engineer-5)
+👉 [View job / Apply](https://jobicy.com/jobs/159054-l1-support-engineer-portuguese-part-time)
+
+---
+
+## 2. L1 Support Engineer - Spanish Backup
+
+**Company:** Instructure
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-11-05T04:44:13+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/159043-l1-support-engineer-spanish-backup)
 
 ---
 
