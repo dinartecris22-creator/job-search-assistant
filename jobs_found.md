@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-10 20:10 UTC
+Last search: 2026-11-11 19:57 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,69 +46,4 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 4 possible opportunities
-
-## 1. Technical Support Engineer
-
-**Company:** Clipboard
-
-**Location:** APAC
-
-**Modality:** Remote
-
-**Published:** 2026-11-10T11:36:19+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/161075-technical-support-engineer-8)
-
----
-
-## 2. Customer Support Engineer (UK) — Phaselaw
-
-**Company:** Pear VC
-
-**Location:** UK
-
-**Modality:** Remote
-
-**Published:** 2026-11-10T11:32:43+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/161068-customer-support-engineer-uk-phaselaw)
-
----
-
-## 3. Technical Support Engineer
-
-**Company:** Plaid
-
-**Location:** UK
-
-**Modality:** Remote
-
-**Published:** 2026-11-10T11:32:40+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/161066-technical-support-engineer-7)
-
----
-
-## 4. Client Support Specialist (Workplaces - B2B)
-
-**Company:** Clipboard
-
-**Location:** Philippines
-
-**Modality:** Remote
-
-**Published:** 2026-11-10T09:09:29+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/161023-client-support-specialist-workplaces-b2b)
-
----
-
+No matching automatic jobs found today.
