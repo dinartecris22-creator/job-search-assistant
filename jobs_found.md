@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-12 20:37 UTC
+Last search: 2026-11-13 20:14 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,37 +46,21 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 2 possible opportunities
+## Found 1 possible opportunities
 
-## 1. Dealer Partner Support Specialist - Level 1 (United States)
+## 1. Helpdesk Technician Tier 1
 
-**Company:** AutoFi
+**Company:** Nebius
 
-**Location:** USA
-
-**Modality:** Remote
-
-**Published:** 2026-11-12T13:04:06+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/161603-dealer-partner-support-specialist-level-1-united-states)
-
----
-
-## 2. Dealer Partner Support Specialist - Level 1 (Canada)
-
-**Company:** AutoFi
-
-**Location:** Canada
+**Location:** Singapore
 
 **Modality:** Remote
 
-**Published:** 2026-11-12T13:03:59+00:00
+**Published:** 2026-11-13T09:04:42+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/161599-dealer-partner-support-specialist-level-1-canada)
+👉 [View job / Apply](https://jobicy.com/jobs/161790-helpdesk-technician-tier-1-2)
 
 ---
 
