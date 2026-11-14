@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-13 20:14 UTC
+Last search: 2026-11-14 18:37 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -48,19 +48,19 @@ Sources: Jobicy + Remotive
 
 ## Found 1 possible opportunities
 
-## 1. Helpdesk Technician Tier 1
+## 1. Product Support Engineer - EMEA
 
-**Company:** Nebius
+**Company:** Ashby
 
-**Location:** Singapore
+**Location:** Czechia,  Denmark,  France,  Germany,  Ireland,  Italy,  Netherlands,  Poland,  Portugal,  Romania,  Spain,  Sweden,  UK
 
 **Modality:** Remote
 
-**Published:** 2026-11-13T09:04:42+00:00
+**Published:** 2026-11-14T12:55:41+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/161790-helpdesk-technician-tier-1-2)
+👉 [View job / Apply](https://jobicy.com/jobs/162200-product-support-engineer-emea-3)
 
 ---
 
