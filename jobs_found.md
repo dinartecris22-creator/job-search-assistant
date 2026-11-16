@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-15 19:13 UTC
+Last search: 2026-11-16 22:41 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,4 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-No matching automatic jobs found today.
+## Found 2 possible opportunities
+
+## 1. Support Engineer
+
+**Company:** Kinsta
+
+**Location:** Mexico
+
+**Modality:** Remote
+
+**Published:** 2026-11-16T15:45:01+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/162667-support-engineer-3)
+
+---
+
+## 2. Aftermarket - Technical Support I
+
+**Company:** GoDaddy
+
+**Location:** Bulgaria
+
+**Modality:** Remote
+
+**Published:** 2026-11-16T12:11:39+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/162615-aftermarket-technical-support-i-2)
+
+---
+
