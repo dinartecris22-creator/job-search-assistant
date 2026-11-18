@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-17 21:28 UTC
+Last search: 2026-11-18 21:03 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
+## Found 2 possible opportunities
 
-## 1. Product Support Specialist - East Coast
+## 1. Service Desk Engineer
 
-**Company:** Tekmetric
+**Company:** RFA
 
-**Location:** USA
+**Location:** Philippines
 
 **Modality:** Remote
 
-**Published:** 2026-11-17T16:40:45+00:00
+**Published:** 2026-11-18T14:00:40+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/163014-product-support-specialist-east-coast)
+👉 [View job / Apply](https://jobicy.com/jobs/163152-service-desk-engineer)
+
+---
+
+## 2. AI Support Engineer - Toronto
+
+**Company:** OpenAI
+
+**Location:** Canada
+
+**Modality:** Remote
+
+**Published:** 2026-11-18T11:34:34+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/163083-ai-support-engineer-toronto)
 
 ---
 
