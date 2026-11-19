@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-18 21:03 UTC
+Last search: 2026-11-19 21:07 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,37 +46,4 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 2 possible opportunities
-
-## 1. Service Desk Engineer
-
-**Company:** RFA
-
-**Location:** Philippines
-
-**Modality:** Remote
-
-**Published:** 2026-11-18T14:00:40+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/163152-service-desk-engineer)
-
----
-
-## 2. AI Support Engineer - Toronto
-
-**Company:** OpenAI
-
-**Location:** Canada
-
-**Modality:** Remote
-
-**Published:** 2026-11-18T11:34:34+00:00
-
-**Source:** Jobicy
-
-👉 [View job / Apply](https://jobicy.com/jobs/163083-ai-support-engineer-toronto)
-
----
-
+No matching automatic jobs found today.
