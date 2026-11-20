@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-19 21:07 UTC
+Last search: 2026-11-20 20:53 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,4 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-No matching automatic jobs found today.
+## Found 2 possible opportunities
+
+## 1. Support Engineer
+
+**Company:** Freshpaint
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-11-20T09:29:08+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/163475-support-engineer-4)
+
+---
+
+## 2. Technical Support Engineer, Spanish Bilingual (6 Month Contract, Remote)
+
+**Company:** Brain Co.
+
+**Location:** USA
+
+**Modality:** Remote
+
+**Published:** 2026-11-20T09:27:02+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/163463-technical-support-engineer-spanish-bilingual-6-month-contract-remote)
+
+---
+
