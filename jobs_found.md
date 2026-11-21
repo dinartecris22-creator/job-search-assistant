@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-20 20:53 UTC
+Last search: 2026-11-21 19:54 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -48,35 +48,35 @@ Sources: Jobicy + Remotive
 
 ## Found 2 possible opportunities
 
-## 1. Support Engineer
+## 1. Technical Support Specialist , US East Coast
 
-**Company:** Freshpaint
+**Company:** Nash
 
 **Location:** USA
 
 **Modality:** Remote
 
-**Published:** 2026-11-20T09:29:08+00:00
+**Published:** 2026-11-21T10:32:29+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/163475-support-engineer-4)
+👉 [View job / Apply](https://jobicy.com/jobs/163621-technical-support-specialist-us-east-coast)
 
 ---
 
-## 2. Technical Support Engineer, Spanish Bilingual (6 Month Contract, Remote)
+## 2. Database Support Engineer (Japanese Speaking)
 
-**Company:** Brain Co.
+**Company:** Supabase
 
-**Location:** USA
+**Location:** APAC
 
 **Modality:** Remote
 
-**Published:** 2026-11-20T09:27:02+00:00
+**Published:** 2026-11-21T03:25:25+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/163463-technical-support-engineer-spanish-bilingual-6-month-contract-remote)
+👉 [View job / Apply](https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking)
 
 ---
 
