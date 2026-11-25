@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-24 22:52 UTC
+Last search: 2026-11-25 22:05 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -48,19 +48,19 @@ Sources: Jobicy + Remotive
 
 ## Found 1 possible opportunities
 
-## 1. Member Support Specialist
+## 1. Associate Customer Support Specialist
 
-**Company:** Fruitful Ventures
+**Company:** Fleetio
 
-**Location:** USA
+**Location:** Canada,  USA
 
 **Modality:** Remote
 
-**Published:** 2026-11-24T15:19:11+00:00
+**Published:** 2026-11-25T14:26:55+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/164151-member-support-specialist)
+👉 [View job / Apply](https://jobicy.com/jobs/164290-associate-customer-support-specialist)
 
 ---
 
