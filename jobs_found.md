@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-25 22:05 UTC
+Last search: 2026-11-26 22:04 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -46,21 +46,37 @@ Searches for onsite, hybrid and remote opportunities in Costa Rica.
 
 Sources: Jobicy + Remotive
 
-## Found 1 possible opportunities
+## Found 2 possible opportunities
 
-## 1. Associate Customer Support Specialist
+## 1. Enterprise Support Engineer, APAC
 
-**Company:** Fleetio
+**Company:** Jamf
 
-**Location:** Canada,  USA
+**Location:** Australia
 
 **Modality:** Remote
 
-**Published:** 2026-11-25T14:26:55+00:00
+**Published:** 2026-11-26T14:35:53+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/164290-associate-customer-support-specialist)
+👉 [View job / Apply](https://jobicy.com/jobs/164420-enterprise-support-engineer-apac)
+
+---
+
+## 2. Dutch speaking Support Specialist
+
+**Company:** Lightspeed Commerce
+
+**Location:** Belgium,  Germany,  Netherlands,  UK
+
+**Modality:** Remote
+
+**Published:** 2026-11-26T12:56:50+00:00
+
+**Source:** Jobicy
+
+👉 [View job / Apply](https://jobicy.com/jobs/164384-dutch-speaking-support-specialist)
 
 ---
 
