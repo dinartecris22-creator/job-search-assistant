@@ -1,6 +1,6 @@
 # 🔎 IT Jobs Found
 
-Last search: 2026-11-26 22:04 UTC
+Last search: 2026-11-27 21:46 UTC
 
 Searching IT Support, Help Desk, Desktop Support, Networking and CCNA opportunities.
 
@@ -48,35 +48,35 @@ Sources: Jobicy + Remotive
 
 ## Found 2 possible opportunities
 
-## 1. Enterprise Support Engineer, APAC
+## 1. Tech Support Specialist I (Spanish Bilingual)
 
-**Company:** Jamf
+**Company:** Palmetto Clean Technology
 
-**Location:** Australia
+**Location:** Philippines
 
 **Modality:** Remote
 
-**Published:** 2026-11-26T14:35:53+00:00
+**Published:** 2026-11-27T16:26:13+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/164420-enterprise-support-engineer-apac)
+👉 [View job / Apply](https://jobicy.com/jobs/164574-tech-support-specialist-i-spanish-bilingual)
 
 ---
 
-## 2. Dutch speaking Support Specialist
+## 2. Technical Support Specialist
 
-**Company:** Lightspeed Commerce
+**Company:** Elation Health
 
-**Location:** Belgium,  Germany,  Netherlands,  UK
+**Location:** Canada
 
 **Modality:** Remote
 
-**Published:** 2026-11-26T12:56:50+00:00
+**Published:** 2026-11-27T12:52:15+00:00
 
 **Source:** Jobicy
 
-👉 [View job / Apply](https://jobicy.com/jobs/164384-dutch-speaking-support-specialist)
+👉 [View job / Apply](https://jobicy.com/jobs/164557-technical-support-specialist-2)
 
 ---
 
